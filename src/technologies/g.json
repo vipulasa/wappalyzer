@@ -68,6 +68,35 @@
     ],
     "website": "https://gls-group.eu"
   },
+  "GoHighLevel": {
+    "cats": [
+      32,
+      75,
+      76
+    ],
+    "description": "HighLevel allows you to connect with your leads through Phone Connect, Voicemail Drops, SMS/MMS, Emails, and even Facebook Messenger.",
+    "icon": "GoHighLevel.png",
+    "js": {
+      "acEnableTracking": ""
+    },
+    "pricing": [
+      "low",
+      "recurring",
+      "poa"
+    ],
+    "saas": true,
+    "scriptSrc": [
+      "plugins/activecampaign-subscription-forms/site_tracking\\.js",
+      "\\.leadconnectorhq\\.com",
+      "\\.app-us1\\.com",
+      "\\.ac-page\\.com"
+    ],
+    "url": [
+      "\\.activehosted\\.com",
+      "\\.ac-page\\.com"
+    ],
+    "website": "https://www.gohighlevel.com/homepage-page"
+  },
   "GOV.UK Elements": {
     "cats": [
       66
