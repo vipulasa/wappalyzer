@@ -79,11 +79,6 @@
     ],
     "description": "HighLevel allows you to connect with your leads through Phone Connect, Voicemail Drops, SMS/MMS, Emails, and even Facebook Messenger.",
     "icon": "GoHighLevel.png",
-    "pricing": [
-      "low",
-      "recurring",
-      "poa"
-    ],
     "saas": true,
     "scriptSrc": [
       "\\.msgsndr\\.com",
