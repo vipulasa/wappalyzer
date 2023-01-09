@@ -70,9 +70,12 @@
   },
   "GoHighLevel": {
     "cats": [
+      72,
+      52,
+      51,
+      53,
       32,
-      75,
-      76
+      11
     ],
     "description": "HighLevel allows you to connect with your leads through Phone Connect, Voicemail Drops, SMS/MMS, Emails, and even Facebook Messenger.",
     "icon": "GoHighLevel.png",
