@@ -87,13 +87,11 @@
     "saas": true,
     "scriptSrc": [
       "\\.msgsndr\\.com",
-      "\\.leadconnectorhq\\.com",
-      "\\.getclients\\.dk"
+      "\\.leadconnectorhq\\.com"
     ],
     "url": [
       "\\.msgsndr\\.com",
-      "\\.leadconnectorhq\\.com",
-      "\\.getclients\\.dk"
+      "\\.leadconnectorhq\\.com"
     ],
     "website": "https://www.gohighlevel.com/homepage-page"
   },
